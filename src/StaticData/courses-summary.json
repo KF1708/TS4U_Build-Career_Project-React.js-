@@ -1,0 +1,19 @@
+{
+  "courseSummary": {
+    "thumbnail": "https://ts4u.us/about-us/middle-feature-box/about-us-middle.png",
+    "title": "A Brief Summary of Our Courses",
+    "intro": "If you are a recent graduate or job seeker, now is the moment to jumpstart your career, and we will assist you in securing your ideal job.",
+    "sections": [
+      {
+        "id": "01.",
+        "title": "Our On-going State",
+        "description": "We are the first technology company in the United States to offer complete on-site IT courses until you succeed. We are here to help you evolve from a rookie, inexperienced, unskilled person to a valuable asset to a company, a society, and the country."
+      },
+      {
+        "id": "02.",
+        "title": "Why Us",
+        "description": "At TS4U, we believe that IT knowledge should not be limited to a select few. That's why we invite all IT and non-IT people to change their perceptions of the technical world. We provide a comprehensive learning program that starts from scratch and is designed to introduce anyone and everyone to the exciting world of IT. With TS4U, you can surely stand tall in the world of technology. Feel empowered as you take control of your future with our comprehensive IT training programs. Join us now."
+      }
+    ]
+  }
+}

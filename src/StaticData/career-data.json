@@ -1,0 +1,100 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "icon": "https://ts4u.us/career/product-owner2.png",
+      "title": "Product Owner",
+      "type": "Full Time",
+      "location": "NY, USA",
+      "skills": ["Agile", "Project Management", "Scrum", "Product Backlog"]
+    },
+    {
+      "id": 2,
+      "icon": "https://ts4u.us/career/teacher.png",
+      "title": "Mentor and Software Engineer Assistant for (Java, Python and NodeJs)",
+      "type": "Part Time",
+      "location": "Remote",
+      "skills": ["Java", "Python", "JavaScript", "NodeJs", "Django"]
+    },
+    {
+      "id": 3,
+      "icon": "https://ts4u.us/career/graphics-designer.png",
+      "title": "Mid-Level Graphic Designer with Video Design Experience",
+      "type": "Full Time",
+      "location": "ND, USA",
+      "skills": ["Canva", "Photoshop", "Illustrator", "After Effects"]
+    },
+    {
+      "id": 4,
+      "icon": "https://ts4u.us/career/frontend.png",
+      "title": "Junior Front-End Developer",
+      "type": "Full Time",
+      "location": "MD, USA",
+      "skills": ["JavaScript", "ReactJs", "NextJs", "Redux"]
+    },
+    {
+      "id": 5,
+      "icon": "https://ts4u.us/career/online-marketer.png",
+      "title": "Mid-Level SEO Expert",
+      "type": "Full Time",
+      "location": "DC, USA",
+      "skills": ["SEO Monitor", "On-page SEO optimization", "Google Analytics"]
+    },
+    {
+      "id": 6,
+      "icon": "https://ts4u.us/career/lead-generation.png",
+      "title": "Lead Generation Intern",
+      "type": "Full Time",
+      "location": "VA, USA",
+      "skills": ["Collecting Leads", "Marketing", "Operating Meeting"]
+    },
+    {
+      "id": 7,
+      "icon": "https://ts4u.us/career/lead-generation.png",
+      "title": "Lead Generation Specialist",
+      "type": "Full Time",
+      "location": "MD, USA",
+      "skills": ["Lead Generation", "Marketing Strategy", "Operating Meeting"]
+    },
+    {
+      "id": 8,
+      "icon": "https://ts4u.us/career/web-developer.png",
+      "title": "MERN Stack Developer",
+      "type": "Full Time",
+      "location": "NC, USA",
+      "skills": ["MERN", "Full Stack", "Frontend", "Backend"]
+    },
+    {
+      "id": 9,
+      "icon": "https://ts4u.us/career/web-developer.png",
+      "title": "QA Automation Engineer",
+      "type": "Full Time",
+      "location": "TX, USA",
+      "skills": ["QA Methodologies", "Selenium", "Quality Assurance"]
+    },
+    {
+      "id": 10,
+      "icon": "https://ts4u.us/career/web-developer.png",
+      "title": "CloudOps Mentor Assistant",
+      "type": "Full Time",
+      "location": "VA, USA",
+      "skills": ["DevOps", "CloudOps", "AWS", "Linux"]
+    },
+    {
+      "id": 11,
+      "icon": "https://ts4u.us/career/frontend.png",
+      "title": "Business Support Analyst",
+      "type": "Hybrid",
+      "location": "DC, USA",
+      "skills": ["Business Support", "Analyst", "Administrative Support"]
+    },
+    {
+      "id": 12,
+      "icon": "https://ts4u.us/career/online-marketer.png",
+      "title": "Business & Marketing Specialist",
+      "type": "Full Time",
+      "location": "VA, USA",
+      "skills": ["Create Marketing Materials", "Conduct Market Research"]
+    }
+  ]
+}

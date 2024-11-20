@@ -1,0 +1,34 @@
+{
+  "courseSummary": {
+    "title": "A Brief Summary of Our Courses",
+    "intro": "If you are a recent graduate or job seeker, now is the moment to jumpstart your career, and we will assist you in securing your ideal job.",
+    "agendas": [
+      {
+        "id": "01.",
+        "thumbnail": "https://ts4u.us/about-us/bottom-feature-box/about-us-bottom-1.png",
+        "title": "We are continually adding new courses or programs to our system. These are some notable courses and training available at TS4U:",
+        "lists": [
+          "Application development",
+          "Project-based workforce readiness",
+          "Project support",
+          "DevOps engineering",
+          "Cloud service",
+          "Mock interviews",
+          "Technology consulting"
+        ]
+      },
+      {
+        "id": "02.",
+        "thumbnail": "https://ts4u.us/about-us/bottom-feature-box/about-us-bottom-2.png",
+        "title": "We are continually adding new courses or programs to our system. These are some notable courses and training available at TS4U:",
+        "lists": [
+          "QE project-based workforce readiness",
+          "DevOps project-based workforce readiness",
+          "Python project-based workforce readiness",
+          "Student internship",
+          "Client"
+        ]
+      }
+    ]
+  }
+}

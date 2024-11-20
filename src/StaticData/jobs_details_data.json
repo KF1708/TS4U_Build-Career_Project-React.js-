@@ -1,0 +1,315 @@
+{
+  "jobDetails": [
+    {
+      "id": 1,
+      "title": "Product Owner",
+      "company": "TS4U Ltd.",
+      "description": "TS4U Ltd. is looking for energetic and proactive individuals to be a part of our development team, supporting established projects and creating from the ground up. The ideal candidate is an experienced leader and team player who is adept at product management.",
+      "location": "NY, USA",
+      "jobType": "Full Time",
+      "responsibilities": [
+        "Plan and prioritize product feature backlog and development for the product.",
+        "Defines, develop, and manages product vision, strategies, and roadmaps.",
+        "Assess value, develop cases, and prioritize stories, epics, and features to ensure work focuses on those with maximum value that are aligned with product strategy.",
+        "Provide backlog management, iteration planning, and elaboration of the user stories.",
+        "Providing vision and direction to the Agile development team and stakeholders throughout the project.",
+        "Support the Operation team in onboarding new candidates.",
+        "Translate business requirements to the development team to enable the creation of actionable tasks.",
+        "Writing user stories from the user's perspective will be an important point to showcase.",
+        "Lead the scrum team in using Agile methodology and scrum practices.",
+        "Take ownership of product success."
+      ],
+      "qualifications": [
+        "Bachelor's degree required or equivalent experience.",
+        "Minimum 3 years experience as a product owner in the industry.",
+        "Strong knowledge of Agile principles and processes; CSPO is nice to have.",
+        "In-depth understanding of industry market conditions and trends.",
+        "Outstanding verbal and written communication skills",
+        "Successful track record of developing products within deadlines.",
+        "Excellent attention to detail.",
+        "Sharp analytical and problem-solving skills.",
+        "Creative and innovative thinker."
+      ],
+      "vacancy": 1,
+      "officeHours": "7:00 AM to 4:00 PM",
+      "salaryReview": "Yearly",
+      "festivalBonus": 2,
+      "salary": "Negotiable",
+      "icon": "https://ts4u.us/career/product-owner2.png",
+      "skills": ["Agile", "Project Management", "Scrum", "Product Backlog"]
+    },
+    {
+      "id": 2,
+      "title": "Mentor and Software Engineer Assistant for (Java, Python and NodeJs)",
+      "company": "TS4U Ltd.",
+      "description": "TS4U Ltd. is looking for experienced software professionals to mentor and assist in course design and interview preparation.",
+      "location": "Remote",
+      "jobType": "Part Time",
+      "responsibilities": [
+        "Mentor students in Java, Python, and NodeJs.",
+        "Design courses and workshop materials.",
+        "Assist in interview preparation and technical problem-solving."
+      ],
+      "qualifications": [
+        "Bachelor's degree or equivalent experience.",
+        "3+ years experience in software development.",
+        "Proficiency in Java, Python, and NodeJs."
+      ],
+      "vacancy": 7,
+      "officeHours": "Flexible",
+      "salaryReview": "Negotiable",
+      "festivalBonus": 0,
+      "salary": "Negotiable",
+      "icon": "https://ts4u.us/career/teacher.png",
+      "skills": ["Java", "Python", "JavaScript", "NodeJs", "Django"]
+    },
+    {
+      "id": 3,
+      "title": "Mid-Level Graphic Designer with Video Design Experience",
+      "company": "TS4U Ltd.",
+      "description": "TS4U Ltd. is seeking creative and detail-oriented graphic designers with expertise in video design.",
+      "location": "VA, USA",
+      "jobType": "Full Time",
+      "responsibilities": [
+        "Create graphics and video materials for branding and marketing.",
+        "Collaborate with the marketing team.",
+        "Manage multiple projects simultaneously."
+      ],
+      "qualifications": [
+        "2-3 years of experience in graphic and video design.",
+        "Proficiency in Adobe Suite (Photoshop, Illustrator, After Effects)."
+      ],
+      "vacancy": 1,
+      "officeHours": "9:00 AM to 5:00 PM",
+      "salaryReview": "Yearly",
+      "festivalBonus": 2,
+      "salary": "Negotiable",
+      "icon": "https://ts4u.us/career/graphics-designer.png",
+      "skills": ["Canva", "Photoshop", "Illustrator", "After Effects"]
+    },
+    {
+      "id": 4,
+      "title": "Junior Front-End Developer",
+      "company": "TS4U Ltd.",
+      "description": "We are looking for a talented junior front-end developer to build responsive web applications.",
+      "location": "DC, USA",
+      "jobType": "Full Time",
+      "responsibilities": [
+        "Develop responsive web applications.",
+        "Assist lead engineers in coding and debugging.",
+        "Implement state management libraries and design patterns."
+      ],
+      "qualifications": [
+        "Proficiency in JavaScript, ReactJs, NextJs, and Redux.",
+        "Strong problem-solving skills and knowledge of modern web technologies."
+      ],
+      "vacancy": 1,
+      "officeHours": "7:00 AM to 4:00 PM",
+      "salaryReview": "Yearly",
+      "festivalBonus": 2,
+      "salary": "Negotiable",
+      "icon": "https://ts4u.us/career/frontend.png",
+      "skills": ["JavaScript", "ReactJs", "NextJs", "Redux"]
+    },
+    {
+      "id": 5,
+      "title": "Mid-Level SEO Expert",
+      "company": "TS4U Ltd.",
+      "description": "TS4U Ltd. is looking for an experienced SEO expert to optimize content and drive web traffic.",
+      "location": "MD, USA",
+      "jobType": "Full Time",
+      "responsibilities": [
+        "Conduct keyword research and website optimization.",
+        "Monitor web traffic and SEO performance metrics.",
+        "Collaborate with marketing teams to ensure SEO best practices."
+      ],
+      "qualifications": [
+        "Proven experience in SEO.",
+        "Expertise in tools like Google Analytics, Ahrefs, and SEMrush.",
+        "Strong analytical and reporting skills."
+      ],
+      "vacancy": 1,
+      "officeHours": "7:00 AM to 4:00 PM",
+      "salaryReview": "Yearly",
+      "festivalBonus": 2,
+      "salary": "Negotiable",
+      "icon": "https://ts4u.us/career/online-marketer.png",
+      "skills": ["SEO Monitor", "On-page SEO optimization", "Google Analytics"]
+    },
+    {
+      "id": 6,
+      "title": "Lead Generation Intern",
+      "company": "TS4U Ltd.",
+      "description": "An exciting internship opportunity for individuals interested in marketing and lead generation.",
+      "location": "ND, USA",
+      "jobType": "Full Time",
+      "responsibilities": [
+        "Collect leads and schedule meetings.",
+        "Collaborate with the operations team to guide leads to trial programs.",
+        "Understand partner processes and maintain professionalism."
+      ],
+      "qualifications": [
+        "Fluent in English writing.",
+        "Smart and quick learner.",
+        "Willingness to work in a fast-paced environment."
+      ],
+      "vacancy": 1,
+      "officeHours": "Flexible (2 shifts)",
+      "salaryReview": "Based on performance",
+      "festivalBonus": 0,
+      "salary": "20,000 BDT",
+      "icon": "https://ts4u.us/career/lead-generation.png",
+      "skills": ["Collecting Leads", "Marketing", "Operating Meeting"]
+    },
+    {
+      "id": 7,
+      "title": "Lead Generation Specialist",
+      "company": "TS4U Ltd.",
+      "description": "A professional role focusing on lead generation strategies and campaign creation.",
+      "location": "VA, USA",
+      "jobType": "Full Time",
+      "responsibilities": [
+        "Develop and execute lead generation strategies.",
+        "Create and manage engaging marketing campaigns.",
+        "Collaborate with sales teams and track/report lead generation activities."
+      ],
+      "qualifications": [
+        "Bachelor's degree in Marketing, Business, or a related field.",
+        "1-2 years of experience in lead generation.",
+        "Strong understanding of digital marketing channels and techniques."
+      ],
+      "vacancy": 1,
+      "officeHours": "7:00 AM to 4:00 PM",
+      "salaryReview": "Yearly",
+      "festivalBonus": 2,
+      "salary": "Negotiable",
+      "icon": "https://ts4u.us/career/lead-generation.png",
+      "skills": ["Lead Generation", "Marketing Strategy", "Operating Meeting"]
+    },
+    {
+      "id": 8,
+      "title": "MERN Stack Developer",
+      "company": "TS4U Ltd.",
+      "description": "We are seeking a skilled MERN stack developer to join our dynamic development team.",
+      "location": "DC, USA",
+      "jobType": "Full Time",
+      "responsibilities": [
+        "Develop full-stack web applications using the MERN stack.",
+        "Maintain and create RESTful APIs.",
+        "Implement front-end interfaces and debug issues."
+      ],
+      "qualifications": [
+        "Proven experience in MERN stack development.",
+        "Strong knowledge of JavaScript, React.js, and Node.js.",
+        "Experience with version control tools like Git."
+      ],
+      "vacancy": 1,
+      "officeHours": "7:00 AM to 4:00 PM",
+      "salaryReview": "Yearly",
+      "festivalBonus": 2,
+      "salary": "Negotiable",
+      "icon": "https://ts4u.us/career/web-developer.png",
+      "skills": ["MERN", "Full Stack", "Frontend", "Backend"]
+    },
+    {
+      "id": 9,
+      "title": "QA Automation Engineer",
+      "company": "TS4U Ltd.",
+      "description": "TS4U Ltd. is looking for a QA Automation Engineer to design and implement automated testing for web and mobile applications.",
+      "location": "NY, USA",
+      "jobType": "Full Time",
+      "responsibilities": [
+        "Design and implement automated test cases.",
+        "Collaborate with developers to debug and resolve issues.",
+        "Track bugs and perform regression testing."
+      ],
+      "qualifications": [
+        "Proven experience with Selenium and other automation tools.",
+        "Proficiency in Java, Python, or JavaScript.",
+        "Strong understanding of QA methodologies and practices."
+      ],
+      "vacancy": 1,
+      "officeHours": "7:00 AM to 4:00 PM",
+      "salaryReview": "Yearly",
+      "festivalBonus": 2,
+      "salary": "Negotiable",
+      "icon": "https://ts4u.us/career/web-developer.png",
+      "skills": ["QA Methodologies", "Selenium", "Quality Assurance"]
+    },
+    {
+      "id": 10,
+      "title": "CloudOps Mentor Assistant",
+      "company": "TS4U Ltd.",
+      "description": "Join TS4U as a CloudOps Mentor Assistant, helping to guide and support students in Cloud and DevOps practices.",
+      "location": "Nc, USA",
+      "jobType": "Full Time",
+      "responsibilities": [
+        "Assist in mentoring CloudOps/DevOps Bootcamp students.",
+        "Design program content and quiz materials.",
+        "Troubleshoot system issues and support mentees."
+      ],
+      "qualifications": [
+        "Proficiency in DevOps tools like Git, Jenkins, and Kubernetes.",
+        "Strong understanding of CI/CD processes.",
+        "Excellent communication and problem-solving skills."
+      ],
+      "vacancy": 1,
+      "officeHours": "7:00 AM to 4:00 PM",
+      "salaryReview": "Yearly",
+      "festivalBonus": 2,
+      "salary": "Negotiable",
+      "icon": "https://ts4u.us/career/web-developer.png",
+      "skills": ["DevOps", "CloudOps", "AWS", "Linux"]
+    },
+    {
+      "id": 11,
+      "title": "Business Support Analyst",
+      "company": "TS4U Ltd.",
+      "description": "An entry-level role focusing on administrative and business support tasks in a hybrid environment.",
+      "location": "TX, USA",
+      "jobType": "Hybrid",
+      "responsibilities": [
+        "Take detailed meeting notes and organize tasks.",
+        "Support business operations and learn new applications.",
+        "Collaborate with different teams for administrative support."
+      ],
+      "qualifications": [
+        "Strong organizational and administrative skills.",
+        "Proficiency in Google Drive tools (Docs, Sheets, Slides).",
+        "Fluency in English communication."
+      ],
+      "vacancy": 4,
+      "officeHours": "Flexible",
+      "salaryReview": "Yearly",
+      "festivalBonus": 2,
+      "salary": "10,000 to 12,000 BDT",
+      "icon": "https://ts4u.us/career/frontend.png",
+      "skills": ["Business Support", "Analyst", "Administrative Support"]
+    },
+    {
+      "id": 12,
+      "title": "Business & Marketing Specialist",
+      "company": "TS4U Ltd.",
+      "description": "Join TS4U as a Business & Marketing Specialist to develop and implement impactful marketing strategies.",
+      "location": "DC, USA",
+      "jobType": "Full Time",
+      "responsibilities": [
+        "Create marketing strategies and promotional campaigns.",
+        "Conduct market research and monitor campaign performance.",
+        "Coordinate events like trade shows and product launches."
+      ],
+      "qualifications": [
+        "Experience in social media and email marketing.",
+        "Proficiency in tools like Google Analytics and AdWords.",
+        "Strong organizational and creative skills."
+      ],
+      "vacancy": 1,
+      "officeHours": "7:00 AM to 4:00 PM",
+      "salaryReview": "Yearly",
+      "festivalBonus": 2,
+      "salary": "Negotiable",
+      "icon": "https://ts4u.us/career/online-marketer.png",
+      "skills": ["Create Marketing Materials", "Conduct Market Research"]
+    }
+  ]
+}

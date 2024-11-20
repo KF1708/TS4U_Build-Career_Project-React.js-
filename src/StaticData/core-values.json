@@ -1,0 +1,22 @@
+{
+  "coreValues": [
+    {
+      "id": 1,
+      "icon": "https://ts4u.us/about-us/top-feature-icon/mission.png",
+      "title": "Mission",
+      "description": "TS4U is a certified training provider whose mission is to improve the Information Technology workforce locally and globally. That's why we provide cutting-edge training specializing in career transformation, with a focus on today's most in-demand skills. Our training, staffing, and career transition services foster an active community of job-seekers working towards their dreams to secure stable employment or entrepreneurship in a high-demand industry."
+    },
+    {
+      "id": 2,
+      "icon": "https://ts4u.us/about-us/top-feature-icon/vision.png",
+      "title": "Vision",
+      "description": "In light of the growing technological gap, TS4U provides award-winning, dynamic training to help individuals and companies fill this gap. The goal of our program is to assist students in achieving their career goals by providing easy access to education and training and becoming key partners in workforce development."
+    },
+    {
+      "id": 3,
+      "icon": "https://ts4u.us/about-us/top-feature-icon/values.png",
+      "title": "Value",
+      "description": "TS4U is driven by the value of providing access to corporate training models for underrepresented communities and low-income adults. We believe everyone should have the opportunity to pursue a lucrative career regardless of their previous barriers to education and employment."
+    }
+  ]
+}
